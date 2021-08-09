@@ -1,0 +1,8 @@
+美团健康丽人页面链接：
+https://xa.meituan.com/jiankangliren/c21004/pn28  # pn后面跟页数
+
+https://apimobile.meituan.com/group/v4/poi/pcsearch/42?
+uuid=38314cfb231e4bae92a1.1616510460.1.0.0&
+userid=2562897915&limit=32&
+offset=0&   # 32*(page-1)
+cateId=21004&token=_ptnJVjALlAqkN7Bvbmi2Fcz_GUAAAAAJg0AADNcUmtdmXehaQE7uUEpefu4n-j0-4DifzsXeISjPGXhwu7Erjl0XnL_GhKDbp8WeA&areaId=-1

@@ -1,0 +1,37 @@
+get请求方法
+
+获取商品信息url：
+https://search-x.jd.com/Search?
+callback=jQuery4213598&
+area=14&
+enc=utf-8&
+keyword=%E8%94%AC%E8%8F%9C&
+adType=7&
+page=1&    //url关键词：页数
+ad_ids=291%3A33&
+xtest=new_search&
+_=1616166362169
+
+
+获取商品常规评论url：
+https://club.jd.com/comment/skuProductPageComments.action?
+callback=fetchJSON_comment98&
+productId=40529888996
+&score=0&sortType=5&
+page=0&
+pageSize=10&isShadowSku=0&fold=1
+
+
+获取商品折叠评论url：
+https://club.jd.com/comment/getSkuPageFoldComments.action?
+callback=jQuery2710551&
+productId=40529888996&    //url关键词：商品id
+score=5&
+sortType=5&
+page=0&    //url关键词：页数
+pageSize=5&
+_=1616169290622
+
+
+https://club.jd.com/comment/getSkuPageFoldComments.action?callback=jQuery203110&productId=13301127826&score=0&sortType=5&page=0&pageSize=5&_=1616317958663
+https://club.jd.com/comment/getSkuPageFoldComments.action?callback=jQuery2710551&productId=13301127826&score=5&sortType=5&page=0&pageSize=5&_=1616317958663
